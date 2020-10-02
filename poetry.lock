@@ -299,7 +299,7 @@ description = "TensorFlow is an open source machine learning framework for every
 name = "tensorflow"
 optional = false
 python-versions = "*"
-version = "2.1.0"
+version = "2.3.1"
 
 [package.dependencies]
 absl-py = ">=0.7.0"
